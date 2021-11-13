@@ -52,6 +52,7 @@ Em seguida, clique nos arquivos:
 
 ## Autores
 
-- Bárbara Neves, Lucas Benjamim, Samir Braga e Vinicius Bernardo.
+- Alunos de Pós-Graduação em Ciência da Computação (MDCC/UFC): Bárbara Neves, Lucas Benjamim e Samir Braga; e,
+- Aluno de Graduação em Ciência da Computação: Vinicius Bernardo.
 
 
